@@ -1,0 +1,16 @@
+E:\!ПОИТ\2\First\ООТП\Лабы\lab2\lab2\bin\Debug\net5.0\lab2.exe
+E:\!ПОИТ\2\First\ООТП\Лабы\lab2\lab2\bin\Debug\net5.0\lab2.deps.json
+E:\!ПОИТ\2\First\ООТП\Лабы\lab2\lab2\bin\Debug\net5.0\lab2.runtimeconfig.json
+E:\!ПОИТ\2\First\ООТП\Лабы\lab2\lab2\bin\Debug\net5.0\lab2.runtimeconfig.dev.json
+E:\!ПОИТ\2\First\ООТП\Лабы\lab2\lab2\bin\Debug\net5.0\lab2.dll
+E:\!ПОИТ\2\First\ООТП\Лабы\lab2\lab2\bin\Debug\net5.0\ref\lab2.dll
+E:\!ПОИТ\2\First\ООТП\Лабы\lab2\lab2\bin\Debug\net5.0\lab2.pdb
+E:\!ПОИТ\2\First\ООТП\Лабы\lab2\lab2\obj\Debug\net5.0\lab2.csproj.AssemblyReference.cache
+E:\!ПОИТ\2\First\ООТП\Лабы\lab2\lab2\obj\Debug\net5.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\!ПОИТ\2\First\ООТП\Лабы\lab2\lab2\obj\Debug\net5.0\lab2.AssemblyInfoInputs.cache
+E:\!ПОИТ\2\First\ООТП\Лабы\lab2\lab2\obj\Debug\net5.0\lab2.AssemblyInfo.cs
+E:\!ПОИТ\2\First\ООТП\Лабы\lab2\lab2\obj\Debug\net5.0\lab2.csproj.CoreCompileInputs.cache
+E:\!ПОИТ\2\First\ООТП\Лабы\lab2\lab2\obj\Debug\net5.0\lab2.dll
+E:\!ПОИТ\2\First\ООТП\Лабы\lab2\lab2\obj\Debug\net5.0\ref\lab2.dll
+E:\!ПОИТ\2\First\ООТП\Лабы\lab2\lab2\obj\Debug\net5.0\lab2.pdb
+E:\!ПОИТ\2\First\ООТП\Лабы\lab2\lab2\obj\Debug\net5.0\lab2.genruntimeconfig.cache
