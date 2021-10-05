@@ -1,0 +1,16 @@
+E:\!ПОИТ\2\First\ООТП\Лабы\lab4\lab4\bin\Debug\net5.0\lab4.exe
+E:\!ПОИТ\2\First\ООТП\Лабы\lab4\lab4\bin\Debug\net5.0\lab4.deps.json
+E:\!ПОИТ\2\First\ООТП\Лабы\lab4\lab4\bin\Debug\net5.0\lab4.runtimeconfig.json
+E:\!ПОИТ\2\First\ООТП\Лабы\lab4\lab4\bin\Debug\net5.0\lab4.runtimeconfig.dev.json
+E:\!ПОИТ\2\First\ООТП\Лабы\lab4\lab4\bin\Debug\net5.0\lab4.dll
+E:\!ПОИТ\2\First\ООТП\Лабы\lab4\lab4\bin\Debug\net5.0\ref\lab4.dll
+E:\!ПОИТ\2\First\ООТП\Лабы\lab4\lab4\bin\Debug\net5.0\lab4.pdb
+E:\!ПОИТ\2\First\ООТП\Лабы\lab4\lab4\obj\Debug\net5.0\lab4.csproj.AssemblyReference.cache
+E:\!ПОИТ\2\First\ООТП\Лабы\lab4\lab4\obj\Debug\net5.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+E:\!ПОИТ\2\First\ООТП\Лабы\lab4\lab4\obj\Debug\net5.0\lab4.AssemblyInfoInputs.cache
+E:\!ПОИТ\2\First\ООТП\Лабы\lab4\lab4\obj\Debug\net5.0\lab4.AssemblyInfo.cs
+E:\!ПОИТ\2\First\ООТП\Лабы\lab4\lab4\obj\Debug\net5.0\lab4.csproj.CoreCompileInputs.cache
+E:\!ПОИТ\2\First\ООТП\Лабы\lab4\lab4\obj\Debug\net5.0\lab4.dll
+E:\!ПОИТ\2\First\ООТП\Лабы\lab4\lab4\obj\Debug\net5.0\ref\lab4.dll
+E:\!ПОИТ\2\First\ООТП\Лабы\lab4\lab4\obj\Debug\net5.0\lab4.pdb
+E:\!ПОИТ\2\First\ООТП\Лабы\lab4\lab4\obj\Debug\net5.0\lab4.genruntimeconfig.cache
