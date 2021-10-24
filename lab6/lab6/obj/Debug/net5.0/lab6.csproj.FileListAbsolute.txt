@@ -1,0 +1,16 @@
+E:\!ПОИТ\2\First\ООТП\Лабы\lab6\lab6\bin\Debug\net5.0\lab6.exe
+E:\!ПОИТ\2\First\ООТП\Лабы\lab6\lab6\bin\Debug\net5.0\lab6.deps.json
+E:\!ПОИТ\2\First\ООТП\Лабы\lab6\lab6\bin\Debug\net5.0\lab6.runtimeconfig.json
+E:\!ПОИТ\2\First\ООТП\Лабы\lab6\lab6\bin\Debug\net5.0\lab6.runtimeconfig.dev.json
+E:\!ПОИТ\2\First\ООТП\Лабы\lab6\lab6\bin\Debug\net5.0\lab6.dll
+E:\!ПОИТ\2\First\ООТП\Лабы\lab6\lab6\bin\Debug\net5.0\ref\lab6.dll
+E:\!ПОИТ\2\First\ООТП\Лабы\lab6\lab6\bin\Debug\net5.0\lab6.pdb
+E:\!ПОИТ\2\First\ООТП\Лабы\lab6\lab6\obj\Debug\net5.0\lab6.csproj.AssemblyReference.cache
+E:\!ПОИТ\2\First\ООТП\Лабы\lab6\lab6\obj\Debug\net5.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+E:\!ПОИТ\2\First\ООТП\Лабы\lab6\lab6\obj\Debug\net5.0\lab6.AssemblyInfoInputs.cache
+E:\!ПОИТ\2\First\ООТП\Лабы\lab6\lab6\obj\Debug\net5.0\lab6.AssemblyInfo.cs
+E:\!ПОИТ\2\First\ООТП\Лабы\lab6\lab6\obj\Debug\net5.0\lab6.csproj.CoreCompileInputs.cache
+E:\!ПОИТ\2\First\ООТП\Лабы\lab6\lab6\obj\Debug\net5.0\lab6.dll
+E:\!ПОИТ\2\First\ООТП\Лабы\lab6\lab6\obj\Debug\net5.0\ref\lab6.dll
+E:\!ПОИТ\2\First\ООТП\Лабы\lab6\lab6\obj\Debug\net5.0\lab6.pdb
+E:\!ПОИТ\2\First\ООТП\Лабы\lab6\lab6\obj\Debug\net5.0\lab6.genruntimeconfig.cache
