@@ -1,0 +1,16 @@
+E:\!ПОИТ\2\First\ООТП\Лабы\lab13\lab13\obj\Debug\net5.0\lab13.csproj.AssemblyReference.cache
+E:\!ПОИТ\2\First\ООТП\Лабы\lab13\lab13\obj\Debug\net5.0\lab13.GeneratedMSBuildEditorConfig.editorconfig
+E:\!ПОИТ\2\First\ООТП\Лабы\lab13\lab13\obj\Debug\net5.0\lab13.AssemblyInfoInputs.cache
+E:\!ПОИТ\2\First\ООТП\Лабы\lab13\lab13\obj\Debug\net5.0\lab13.AssemblyInfo.cs
+E:\!ПОИТ\2\First\ООТП\Лабы\lab13\lab13\obj\Debug\net5.0\lab13.csproj.CoreCompileInputs.cache
+E:\!ПОИТ\2\First\ООТП\Лабы\lab13\lab13\bin\Debug\net5.0\lab13.exe
+E:\!ПОИТ\2\First\ООТП\Лабы\lab13\lab13\bin\Debug\net5.0\lab13.deps.json
+E:\!ПОИТ\2\First\ООТП\Лабы\lab13\lab13\bin\Debug\net5.0\lab13.runtimeconfig.json
+E:\!ПОИТ\2\First\ООТП\Лабы\lab13\lab13\bin\Debug\net5.0\lab13.runtimeconfig.dev.json
+E:\!ПОИТ\2\First\ООТП\Лабы\lab13\lab13\bin\Debug\net5.0\lab13.dll
+E:\!ПОИТ\2\First\ООТП\Лабы\lab13\lab13\bin\Debug\net5.0\ref\lab13.dll
+E:\!ПОИТ\2\First\ООТП\Лабы\lab13\lab13\bin\Debug\net5.0\lab13.pdb
+E:\!ПОИТ\2\First\ООТП\Лабы\lab13\lab13\obj\Debug\net5.0\lab13.dll
+E:\!ПОИТ\2\First\ООТП\Лабы\lab13\lab13\obj\Debug\net5.0\ref\lab13.dll
+E:\!ПОИТ\2\First\ООТП\Лабы\lab13\lab13\obj\Debug\net5.0\lab13.pdb
+E:\!ПОИТ\2\First\ООТП\Лабы\lab13\lab13\obj\Debug\net5.0\lab13.genruntimeconfig.cache

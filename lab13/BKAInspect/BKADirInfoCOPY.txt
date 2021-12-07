@@ -1,0 +1,18 @@
+----------Директории----------
+!ПОИТ
+$RECYCLE.BIN
+CURSES
+Documents
+Downloads
+Music
+MyGames
+Pictures
+ProgramData
+SOFT
+SteamLibrary
+System Volume Information
+Videos
+-------------------------------
+----------Файлы----------
+JetBrains.Rider-2021.2.2.exe
+-------------------------

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rgfZO2gMkpVXeIKq5OiuA5c0eXT1pUVKJ1eJ98Q36dm9t2bJkKL0sf4Sk42L3ofxdoYFruFaAgJa5BTNgEw7kw==",
+  "success": true,
+  "projectFilePath": "E:\\!ПОИТ\\2\\First\\ООТП\\Лабы\\lab13\\lab13\\lab13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\budan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
