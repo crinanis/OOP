@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Figures xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rectangle>
+    <name>Rectangle</name>
+    <square>45</square>
+    <color>blue</color>
+  </Rectangle>
+  <Rectangle>
+    <name>Rectangle</name>
+    <square>28</square>
+    <color>green</color>
+  </Rectangle>
+  <Rectangle>
+    <name>Rectangle</name>
+    <square>64</square>
+    <color>orange</color>
+  </Rectangle>
+  <Rectangle>
+    <name>Rectangle</name>
+    <square>82</square>
+    <color>yellow</color>
+  </Rectangle>
+</Figures>
