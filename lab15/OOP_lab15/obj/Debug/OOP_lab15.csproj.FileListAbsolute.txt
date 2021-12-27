@@ -1,0 +1,14 @@
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_15(работа_с_потоками)\OOP_lab15\OOP_lab15\obj\Debug\OOP_lab15.csprojAssemblyReference.cache
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_15(работа_с_потоками)\OOP_lab15\OOP_lab15\obj\Debug\OOP_lab15.csproj.CoreCompileInputs.cache
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_15(работа_с_потоками)\OOP_lab15\OOP_lab15\bin\Debug\OOP_lab15.exe.config
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_15(работа_с_потоками)\OOP_lab15\OOP_lab15\bin\Debug\OOP_lab15.exe
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_15(работа_с_потоками)\OOP_lab15\OOP_lab15\bin\Debug\OOP_lab15.pdb
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_15(работа_с_потоками)\OOP_lab15\OOP_lab15\obj\Debug\OOP_lab15.exe
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_15(работа_с_потоками)\OOP_lab15\OOP_lab15\obj\Debug\OOP_lab15.pdb
+e:\!ПОИТ\2\First\ООТП\ТЫК\!main\лр_15(работа_с_потоками)\OOP_lab15\OOP_lab15\bin\Debug\OOP_lab15.exe.config
+e:\!ПОИТ\2\First\ООТП\ТЫК\!main\лр_15(работа_с_потоками)\OOP_lab15\OOP_lab15\bin\Debug\OOP_lab15.exe
+e:\!ПОИТ\2\First\ООТП\ТЫК\!main\лр_15(работа_с_потоками)\OOP_lab15\OOP_lab15\bin\Debug\OOP_lab15.pdb
+e:\!ПОИТ\2\First\ООТП\ТЫК\!main\лр_15(работа_с_потоками)\OOP_lab15\OOP_lab15\obj\Debug\OOP_lab15.csproj.AssemblyReference.cache
+e:\!ПОИТ\2\First\ООТП\ТЫК\!main\лр_15(работа_с_потоками)\OOP_lab15\OOP_lab15\obj\Debug\OOP_lab15.csproj.CoreCompileInputs.cache
+e:\!ПОИТ\2\First\ООТП\ТЫК\!main\лр_15(работа_с_потоками)\OOP_lab15\OOP_lab15\obj\Debug\OOP_lab15.exe
+e:\!ПОИТ\2\First\ООТП\ТЫК\!main\лр_15(работа_с_потоками)\OOP_lab15\OOP_lab15\obj\Debug\OOP_lab15.pdb

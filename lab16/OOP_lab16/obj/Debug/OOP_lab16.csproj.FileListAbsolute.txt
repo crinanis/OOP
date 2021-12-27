@@ -1,0 +1,14 @@
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_16(платформа_параллельные вычисления)\OOP_lab16\OOP_lab16\bin\Debug\OOP_lab16.exe.config
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_16(платформа_параллельные вычисления)\OOP_lab16\OOP_lab16\bin\Debug\OOP_lab16.exe
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_16(платформа_параллельные вычисления)\OOP_lab16\OOP_lab16\bin\Debug\OOP_lab16.pdb
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_16(платформа_параллельные вычисления)\OOP_lab16\OOP_lab16\obj\Debug\OOP_lab16.csprojAssemblyReference.cache
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_16(платформа_параллельные вычисления)\OOP_lab16\OOP_lab16\obj\Debug\OOP_lab16.csproj.CoreCompileInputs.cache
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_16(платформа_параллельные вычисления)\OOP_lab16\OOP_lab16\obj\Debug\OOP_lab16.exe
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_16(платформа_параллельные вычисления)\OOP_lab16\OOP_lab16\obj\Debug\OOP_lab16.pdb
+e:\!ПОИТ\2\First\ООТП\ТЫК\!main\лр_16(платформа_параллельные вычисления)\OOP_lab16\OOP_lab16\bin\Debug\OOP_lab16.exe.config
+e:\!ПОИТ\2\First\ООТП\ТЫК\!main\лр_16(платформа_параллельные вычисления)\OOP_lab16\OOP_lab16\bin\Debug\OOP_lab16.exe
+e:\!ПОИТ\2\First\ООТП\ТЫК\!main\лр_16(платформа_параллельные вычисления)\OOP_lab16\OOP_lab16\bin\Debug\OOP_lab16.pdb
+e:\!ПОИТ\2\First\ООТП\ТЫК\!main\лр_16(платформа_параллельные вычисления)\OOP_lab16\OOP_lab16\obj\Debug\OOP_lab16.csproj.CoreCompileInputs.cache
+e:\!ПОИТ\2\First\ООТП\ТЫК\!main\лр_16(платформа_параллельные вычисления)\OOP_lab16\OOP_lab16\obj\Debug\OOP_lab16.exe
+e:\!ПОИТ\2\First\ООТП\ТЫК\!main\лр_16(платформа_параллельные вычисления)\OOP_lab16\OOP_lab16\obj\Debug\OOP_lab16.pdb
+e:\!ПОИТ\2\First\ООТП\ТЫК\!main\лр_16(платформа_параллельные вычисления)\OOP_lab16\OOP_lab16\obj\Debug\OOP_lab16.csproj.AssemblyReference.cache
